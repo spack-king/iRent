@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "37837355921",
+    "project_id": "explorer-ef6bc",
+    "storage_bucket": "explorer-ef6bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37837355921:android:2b16848293faa1de393830",
+        "android_client_info": {
+          "package_name": "com.irent.irent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjynqs5iDQ2iWyXIGfQ2lRBfKpbBLsvL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37837355921:android:d0a5c06ccc982225393830",
+        "android_client_info": {
+          "package_name": "com.ulonet.easeapp.easeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjynqs5iDQ2iWyXIGfQ2lRBfKpbBLsvL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37837355921:android:c71bd187e6122f8d393830",
+        "android_client_info": {
+          "package_name": "com.ulonet.easeapp_console"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjynqs5iDQ2iWyXIGfQ2lRBfKpbBLsvL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
